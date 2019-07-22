@@ -44,8 +44,8 @@
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 0.2923583984375,
-      "y": 0.2923583984375,
+      "x": 0.2923095703125,
+      "y": 0.2923095703125,
       "z": 1
     },
     "_quat": {
@@ -1083,7 +1083,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 200,
+      "width": 280,
       "height": 80
     },
     "_anchorPoint": {
@@ -1143,7 +1143,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 200,
+      "width": 270,
       "height": 80
     },
     "_anchorPoint": {
@@ -1186,8 +1186,8 @@
     },
     "_enabled": true,
     "_useOriginalSize": false,
-    "_string": "授权登陆",
-    "_N$string": "授权登陆",
+    "_string": "授权登陆和支付",
+    "_N$string": "授权登陆和支付",
     "_fontSize": 40,
     "_lineHeight": 80,
     "_enableWrapText": false,

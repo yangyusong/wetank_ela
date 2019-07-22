@@ -1,5 +1,3 @@
-http://tank.suishizhuan.com/
-http://localhost:7456
 
 joinRoom 加入房间
 

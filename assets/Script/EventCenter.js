@@ -71,7 +71,7 @@ var schemeConfigPay = {
         "ReceivingAddress": "EeoJsLZmJhAeMhhYxpHYDnvFytKKm9bsAM",
         "DID": "ibrVqyoGp9jfqjomtDZTPPoFN1mEN9XkwU",
         "PublicKey": "026e48362f9ea157de350f887a36bd073dd0724f095d98a0b647957b1754ae9790",
-        "ReturnUrl": "http://" + location.host,
+        "ReturnUrl": location.host,
 };
 
 window.schemeConfigPay = schemeConfigPay;
