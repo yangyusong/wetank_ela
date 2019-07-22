@@ -1,0 +1,23 @@
+
+joinRoom 加入房间
+
+getRoomList 房间列表
+code: 0, success: true, time: 0, msg: "success",
+    data: Array(3)
+        chainId: "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906"
+        chainName: "EOS"
+        countDown: 2147483647
+        gameContract: "tankgo.io"
+        roomName: "eos"
+        tokenAmount: "1.0000"
+        tokenCode: "eosio.token"
+        tokenSymbol: "EOS"
+
+
+preJoinRoom 预登陆  开始 token
+join 登陆
+
+----------------------
+rootList
+
+
